@@ -1,4 +1,4 @@
-# AI-Powered Document Organizer & Metadata Extraction Tool
+# Document Organizer & Data Extraction Tool
 
 ## Overview
 This project is a Python-based tool that scans local folders, extracts information from documents (Word, pdf), and generates a structured Excel report.
